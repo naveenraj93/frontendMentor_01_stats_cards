@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images/screenshot.jpg)
+[](.images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/naveenraj93/frontendMentor_01_stats_cards)
-- Live Site URL: [Add live site URL here](https://naveenraj93.github.io/Projects/statsPreview/)
+- Solution URL: [Solution Link](https://github.com/naveenraj93/frontendMentor_01_stats_cards)
+- Live Site URL: [Live Site](https://naveenraj93.github.io/Projects/statsPreview/)
 
 ### Built with
 
